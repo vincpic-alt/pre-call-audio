@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog generated="2026-09-07">
+  <office>
+    <brand>Gruppo Rama</brand>
+    <region>Sicilia</region>
+  </office>
+  <properties>
+    <listing>
+      <code>AL277</code>
+      <offerType>for sale</offerType>
+      <city>Catania</city>
+      <area>Via Palermo - Nesima</area>
+      <kind>Apartment</kind>
+      <headline>Catania – Via Palermo (pressi Ospedale Garibaldi) – Ampio Bilocale con Terrazzino Interno</headline>
+      <askingPrice>€ 88.000</askingPrice>
+      <sizeSqm>86</sizeSqm>
+      <bedrooms>1</bedrooms>
+      <bathrooms>1</bathrooms>
+      <agentName>Alberto Petrarca</agentName>
+    </listing>
+    <listing>
+      <code>AL271</code>
+      <offerType>for sale</offerType>
+      <city>Pedara</city>
+      <area>Zona centrale</area>
+      <kind>Building plot</kind>
+      <headline>PEDARA (CT) - ZONA CENTRALE - TERRENO EDIFICABILE SUP. TOT. 2557 MQ</headline>
+      <askingPrice>€ 348.000</askingPrice>
+      <sizeSqm>2557</sizeSqm>
+      <bedrooms>0</bedrooms>
+      <bathrooms>0</bathrooms>
+      <agentName>Alberto Petrarca</agentName>
+    </listing>
+    <listing>
+      <code>AL278</code>
+      <offerType>for sale</offerType>
+      <city>Catania</city>
+      <area>Via Palermo - Nesima</area>
+      <kind>Apartment</kind>
+      <headline>Catania – Via Palermo – Comodissimo Appartamento 4 Vani con Terrazzino</headline>
+      <askingPrice>€ 145.000</askingPrice>
+      <sizeSqm>139</sizeSqm>
+      <bedrooms>3</bedrooms>
+      <bathrooms>2</bathrooms>
+      <agentName>Alberto Petrarca</agentName>
+    </listing>
+    <listing>
+      <code>AL247</code>
+      <offerType>for sale</offerType>
+      <city>Gravina di Catania</city>
+      <area>Fasano</area>
+      <kind>Garage</kind>
+      <headline>GRAVINA DI CATANIA - GARAGE DI 13 MQ</headline>
+      <askingPrice>€ 11.000</askingPrice>
+      <sizeSqm>13</sizeSqm>
+      <bedrooms>0</bedrooms>
+      <bathrooms>0</bathrooms>
+      <agentName>Alberto Petrarca</agentName>
+    </listing>
+    <listing>
+      <code>LA03</code>
+      <offerType>for sale</offerType>
+      <city>Mascali</city>
+      <area>Fondachello</area>
+      <kind>Agricultural land</kind>
+      <headline>MASCALI-FONDACHELLO TERRENO AGRICOLO</headline>
+      <askingPrice>€ 250.000</askingPrice>
+      <sizeSqm>13000</sizeSqm>
+      <bedrooms>0</bedrooms>
+      <bathrooms>0</bathrooms>
+      <agentName>Luca Tosto</agentName>
+    </listing>
+    <listing>
+      <code>LA12</code>
+      <offerType>for sale</offerType>
+      <city>Aci Catena</city>
+      <area>Vampolieri</area>
+      <kind>Garage</kind>
+      <headline>Garage 32mq Via Vampolieri 73</headline>
+      <askingPrice>€ 19.900</askingPrice>
+      <sizeSqm>32</sizeSqm>
+      <bedrooms>0</bedrooms>
+      <bathrooms>0</bathrooms>
+      <agentName>Luca Tosto</agentName>
+    </listing>
+    <listing>
+      <code>LP109</code>
+      <offerType>for sale</offerType>
+      <city>Catania</city>
+      <area>Barriera</area>
+      <kind>Building plot</kind>
+      <headline>Terreno di Circa 2 Ettari per attivita commerciale e/o strutture sanitarie</headline>
+      <askingPrice>€ 3.500.000</askingPrice>
+      <sizeSqm>19000</sizeSqm>
+      <bedrooms>0</bedrooms>
+      <bathrooms>0</bathrooms>
+      <agentName>Lisa Puleo</agentName>
+    </listing>
+    <listing>
+      <code>LP101</code>
+      <offerType>for sale</offerType>
+      <city>Santa Croce Camerina</city>
+      <area>Centro</area>
+      <kind>Villa</kind>
+      <headline>Prestigiosa Dimora Storica con Case Rurali e Ampio Terreno</headline>
+      <askingPrice>€ 1.550.000</askingPrice>
+      <sizeSqm>877</sizeSqm>
+      <bedrooms>8</bedrooms>
+      <bathrooms>4</bathrooms>
+      <agentName>Lisa Puleo</agentName>
+    </listing>
+    <listing>
+      <code>LP88</code>
+      <offerType>for sale</offerType>
+      <city>Catania</city>
+      <area>Vulcania, Piazza Lincoln</area>
+      <kind>Warehouse</kind>
+      <headline>Luminoso e ampio magazzino con parte dedicata ad ufficio nel cuore di Catania</headline>
+      <askingPrice>€ 240.000</askingPrice>
+      <sizeSqm>357</sizeSqm>
+      <bedrooms>0</bedrooms>
+      <bathrooms>1</bathrooms>
+      <agentName>Lisa Puleo</agentName>
+    </listing>
+    <listing>
+      <code>AL282</code>
+      <offerType>for sale</offerType>
+      <city>Acireale</city>
+      <area>Mangano</area>
+      <kind>Independent apartment</kind>
+      <headline>Casa Indipendente da Ristrutturare con Giardino – Ex Palmento ad Acireale</headline>
+      <askingPrice>€ 40.000</askingPrice>
+      <sizeSqm>105</sizeSqm>
+      <bedrooms>0</bedrooms>
+      <bathrooms>0</bathrooms>
+      <agentName>Alberto Petrarca</agentName>
+    </listing>
+    <listing>
+      <code>AL283</code>
+      <offerType>for sale</offerType>
+      <city>Acireale</city>
+      <area>Mangano</area>
+      <kind>Apartment</kind>
+      <headline>Due immobili adiacenti in vendita – Via Nazionale Guardia Mangano 54</headline>
+      <askingPrice>€ 90.000</askingPrice>
+      <sizeSqm>141</sizeSqm>
+      <bedrooms>3</bedrooms>
+      <bathrooms>2</bathrooms>
+      <agentName>Alberto Petrarca</agentName>
+    </listing>
+    <listing>
+      <code>RD68</code>
+      <offerType>for sale</offerType>
+      <city>Tremestieri Etneo</city>
+      <area>Centro</area>
+      <kind>Apartment</kind>
+      <headline>Appartamento in vendita, panoramico e luminoso a Tremestieri Etneo</headline>
+      <askingPrice>€ 240.000</askingPrice>
+      <sizeSqm>140</sizeSqm>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <agentName>Raffaele D'Amico</agentName>
+    </listing>
+  </properties>
+</catalog>
